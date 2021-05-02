@@ -1,1 +1,2 @@
 1. Belajar Javascript.
+2. Belajar Javascrip Lanjutan.
